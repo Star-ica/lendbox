@@ -1,6 +1,7 @@
+// Hardcoded contract address — update after deploy.
 // Edit address to point this front end at an existing deployment.
 window.APP_CONFIG = {
-  "address": "",
+  "address": "0x0000000000000000000000000000000000000000",
   "slug": "lendbox",
   "name": "LendBox",
   "accent": "#b4570a",
